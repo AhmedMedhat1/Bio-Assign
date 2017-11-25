@@ -1,0 +1,2 @@
+The N should be set approximately the same as the widest possible QRS complex so in case of N=25 the output 
+moving average window was the optimal.
